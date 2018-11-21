@@ -4,7 +4,7 @@
 
 ### Setup
 
-You can setup this sample manually or use [Vagrant](https://www.vagrantup.com/) to automatically set up a development environment for you.
+You can setup this sample manually or use [Vagrant](https://www.vagrantup.com/) to automatically set up a development environment for you qwe.
 
 #### Manual
 - Clone repo
